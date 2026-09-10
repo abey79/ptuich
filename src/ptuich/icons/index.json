@@ -1,0 +1,132 @@
+{
+  "bearing-ball": [
+    "bearing",
+    "ball"
+  ],
+  "bolt-hex": [
+    "bolt",
+    "hex",
+    "machine"
+  ],
+  "dowel-pin": [
+    "dowel",
+    "pin",
+    "shaft"
+  ],
+  "drive-hex": [
+    "drive",
+    "hex",
+    "allen",
+    "socket"
+  ],
+  "drive-phillips": [
+    "drive",
+    "phillips",
+    "cross",
+    "ph"
+  ],
+  "drive-pozidriv": [
+    "drive",
+    "pozidriv",
+    "pozi",
+    "pz"
+  ],
+  "drive-slot": [
+    "drive",
+    "slot",
+    "slotted",
+    "flat"
+  ],
+  "drive-square": [
+    "drive",
+    "square",
+    "robertson"
+  ],
+  "drive-torx": [
+    "drive",
+    "torx",
+    "star",
+    "tx"
+  ],
+  "nut-hex": [
+    "nut",
+    "hex",
+    "hexagon"
+  ],
+  "nut-nyloc": [
+    "nut",
+    "nyloc",
+    "lock",
+    "insert"
+  ],
+  "nut-square": [
+    "nut",
+    "square"
+  ],
+  "nut-wing": [
+    "nut",
+    "wing",
+    "thumb"
+  ],
+  "rivet": [
+    "rivet",
+    "pop"
+  ],
+  "screw-countersunk": [
+    "screw",
+    "countersunk",
+    "flat",
+    "flathead"
+  ],
+  "screw-pan": [
+    "screw",
+    "machine",
+    "pan",
+    "round"
+  ],
+  "screw-set": [
+    "screw",
+    "set",
+    "grub",
+    "headless"
+  ],
+  "screw-socket-cap": [
+    "screw",
+    "socket",
+    "cap",
+    "allen",
+    "shcs"
+  ],
+  "screw-wood": [
+    "screw",
+    "wood",
+    "self-tapping",
+    "pointed"
+  ],
+  "standoff": [
+    "standoff",
+    "spacer",
+    "pillar"
+  ],
+  "threaded-rod": [
+    "rod",
+    "threaded",
+    "stud"
+  ],
+  "washer-flat": [
+    "washer",
+    "flat"
+  ],
+  "washer-split": [
+    "washer",
+    "split",
+    "spring",
+    "lock"
+  ],
+  "washer-tooth": [
+    "washer",
+    "tooth",
+    "serrated",
+    "star"
+  ]
+}
